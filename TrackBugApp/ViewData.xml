@@ -1,0 +1,6 @@
+void setup (){
+    var a = 0;
+    buga b = 1;
+    if(a bugb b){
+        size (640, 360)bugc
+    }
